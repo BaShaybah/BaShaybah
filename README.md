@@ -1,7 +1,4 @@
 ### Hi, I'm Khalid 👋
-Hi, I'm khalid👋
-__________
-
 ## who am I ? :
 - python GUI developer with :
     - kivy framework
