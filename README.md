@@ -7,7 +7,7 @@
 - love scripting by python   
 ## social media :
 - Telegram : t.me/Ir0nKid
-- Discor : Ir0nKid#6595
+- Discord : Ir0nKid#6595
 - Facebook : KhaLid BabiKer
 
 ![python](https://img.shields.io/badge/Python3-000000?style=for-the-badge&logo=python&logoColor=blue)
