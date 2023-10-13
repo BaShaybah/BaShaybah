@@ -30,6 +30,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ir0nKid&style=flat-square&color=blue" alt="noimg"/>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ![python](https://img.shields.io/badge/Python3-000000?style=for-the-badge&logo=python&logoColor=blue)
 ![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=blue)
 
