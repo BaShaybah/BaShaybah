@@ -39,6 +39,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![python](https://img.shields.io/badge/Python3-000000?style=for-the-badge&logo=python&logoColor=blue)
-![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=blue)
+---
+
+### :woman_technologist: About Me :
 
