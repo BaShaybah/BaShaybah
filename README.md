@@ -1,16 +1,3 @@
-### Hi, I'm Khalid 👋
-## who am I ? :
-- python GUI developer with :
-    - kivy framework
-    - jnius
-- Basic web developer
-- love scripting by python   
-## social media :
-- Telegram : t.me/Ir0nKid
-- Discord : Ir0nKid#6595
-- Facebook : KhaLid BabiKer
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -50,4 +37,8 @@ I am a Python GUI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](khalid) 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
