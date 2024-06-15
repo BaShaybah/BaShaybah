@@ -26,11 +26,11 @@ I am a Python GUI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elwaleed0&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaShaybah&show_icons=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elwaleed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaShaybah&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elwaleed0&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaShaybah&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=Elwaleed0&style=flat-square&color=blue" alt="noimg"/>
+<img src="https://komarev.com/ghpvc/?username=BaShaybah&style=flat-square&color=blue" alt="noimg"/>
 
