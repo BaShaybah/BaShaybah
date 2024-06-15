@@ -1,11 +1,10 @@
-### Hi :
+### 🤝 Salam :
 
-- :telescope: I’m working as Python android developer .
+- :telescope: I’m working as Undefined domain.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :zap: Building Tools.
 - :mailbox:How to reach me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-BaShaybah-red?style=flat&logo=Linkedin&logoColor=white)](khalid)
 [![Telegram Badge](https://img.shields.io/badge/-BaShaybah-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/BaShaybah)
