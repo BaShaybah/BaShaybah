@@ -8,8 +8,9 @@
 
 - :mailbox:How to reach me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-BaShaybah-red?style=flat&logo=Linkedin&logoColor=white)](khalid)
-[![Telegram Badge](https://img.shields.io/badge/-BaShaybah-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/BaShaybah) 
-
+[![Telegram Badge](https://img.shields.io/badge/-BaShaybah-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/BaShaybah)
+[![Facebook Badge](https://img.shields.io/badge/-BaShaybah-gray?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/BaShaybah)
+[![Gmail Badge](https://img.shields.io/badge/-BaShaybah-brown?style=flat&logo=Gmail&logoColor=white)](khalid.bmohammed00@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 
