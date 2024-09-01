@@ -27,7 +27,8 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaShaybah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaShaybah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaShaybah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaShaybah&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaShaybah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -44,13 +45,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaShaybah&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaShaybah&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaShaybah&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=BaShaybah&style=flat-square&color=blue" alt="noimg"/>
 
