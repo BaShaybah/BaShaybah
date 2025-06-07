@@ -1,5 +1,5 @@
 ### 🌟 About:
-🐍 backend Python dev<br>🔌 electricital engineer<br>🐧 in love with all linux distro<br>🔭 tech researcher
+hey i am basha
 
 
 ### 🌐 Socials:
@@ -29,12 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaShaybah&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaShaybah&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BaShaybah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BaShaybah&limit=5&theme=dark&combine_all_yearly_contributions=true)
