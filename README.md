@@ -1,4 +1,3 @@
-### 🌟 About:
 
 
 <div>
@@ -13,10 +12,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mygoodcat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mygoodcat&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygoodcat&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
