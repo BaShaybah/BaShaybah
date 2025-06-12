@@ -1,5 +1,4 @@
 ### 🌟 About:
-hey i am khalid 👋
 
 
 <div>
@@ -20,11 +19,5 @@ hey i am khalid 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mygoodcat&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygoodcat&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mygoodcat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=mygoodcat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
